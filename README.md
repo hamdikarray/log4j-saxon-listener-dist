@@ -2,7 +2,7 @@
 
 ### Purpose ###
 
-Deal with xsl:message/error/trace XSLT with LOG4J
+Deal with xsl:message/error/trace XSLT with LOG4J.THis is based on [Saxon](http://www.saxonica.com/). By default, its uses the HE edition but it is possible to use EE or PE edition juste by importing the necessary packages via the projet POM. 
 
 ### Logging  ###
 
